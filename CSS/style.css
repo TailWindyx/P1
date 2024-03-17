@@ -42,7 +42,7 @@ text-shadow: 2px 10px 10px;transition: 0.5s;}
 .pp1{color:whitesmoke;transition: 0.5s;}
 .pp1:hover{color: #ff0000ad;
 text-shadow: 2px 10px 10px;transition: 0.5s;}
-.p1:hover {color: black;
+.p1:hover {color: #ff0000ad;
 text-shadow: 2px 10px 10px;transition: 2s;}
 .p1{transition: 2s;text-align: center;}
 a {border: solid;border-radius: 17px;}
